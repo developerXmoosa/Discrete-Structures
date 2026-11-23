@@ -1,0 +1,9 @@
+R = 1090
+Pair index = 140 -> (i,j) = (9,15)
+Department A = 11 (top20[9])
+Department B = 9 (top20[15])
+Num random networks = 25
+Swap multiplier = 9
+Seed = 1090
+|V_A|=29 |E_A|=339
+|V_B|=32 |E_B|=146
